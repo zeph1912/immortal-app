@@ -1,5 +1,5 @@
 # Immortal Android Applications
-***Construct a unprivileged Android application that can never be killed by Linux out-of-memory(oom) killer.***
+***Construct unprivileged applications that can never be killed by Linux out-of-memory(oom) killer.***
 
 MIT License
 
